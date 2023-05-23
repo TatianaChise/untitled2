@@ -6,4 +6,6 @@ public class HomePage {
 
 
     //and go
+
+    //forgot  to say "Hi"
 }
