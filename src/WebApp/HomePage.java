@@ -8,4 +8,7 @@ public class HomePage {
     //and go
 
     //forgot  to say "Hi"
+
+    // adding final view
+
 }
